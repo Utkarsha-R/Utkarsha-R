@@ -6,7 +6,7 @@ But that's not all! I was also a school representative, which means I've got som
 
 Since I work with data, I see it everywhere. It's like living in The Matrix, but with more spreadsheets and fewer slow-motion dodges.😂
 
-Feel free to explore my projects and contributions here on GitHub. I'm always excited to connect with fellow data enthusiasts and collaborate on cool projects.
+Feel free to explore my projects and contributions [here](https://github.com/Utkarsha-R/Project-Portfolio) on GitHub. I'm always excited to connect with fellow data enthusiasts and collaborate on cool projects.
 
 You can Find me on [LinkedIn](https://www.linkedin.com/in/utkarsha-rohinkar)
 
