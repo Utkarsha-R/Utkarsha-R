@@ -8,7 +8,7 @@ Since I work with data, I see it everywhere. It's like living in The Matrix, but
 
 Feel free to explore my projects and contributions here on GitHub. I'm always excited to connect with fellow data enthusiasts and collaborate on cool projects.
 
-You can Find me on [LinkedIn](www.linkedin.com/in/utkarsha-rohinkar)
+You can Find me on [LinkedIn](https://www.linkedin.com/in/utkarsha-rohinkar)
 
 Welcome to my GitHub! Let's make some data magic happen! ✨
 
